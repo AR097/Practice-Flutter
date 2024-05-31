@@ -1,5 +1,5 @@
 # Mini-projetos-Flutter
-Pequenos projetos realizados a fim de estudo e prática.
+Mini-projects relase for studying  Flutter.
 
 ---Important--- 
 Projects create for studies, The code may be buggy.
