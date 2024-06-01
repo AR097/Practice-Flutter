@@ -12,7 +12,7 @@ Install dependeces Dart:
 dart fix --dry-run
 ```
 This must be in Dart -> 
-<img src="https://github.com/AR097/Quiz_Game/assets/107823438/bd046a57-1015-4ffc-8a7a-f8aebd085a13"/>
+<img src="https://github.com/AR097/Practice-Flutter/blob/main/Quiz_Game/obs.quizGame.png"/>
 
 
 # Preview of project:
