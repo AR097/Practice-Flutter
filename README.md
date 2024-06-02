@@ -1,5 +1,9 @@
 # Mini-projects-Flutter
-Mini-projects create for studying  Flutter | Each folder references a single project. 
+Mini-projects create for studying  Flutter | Each folder references a single project. <br><br>
+![Last Commit](https://img.shields.io/github/last-commit/AR097/Practice-Web-Development)
+![Open Issues](https://img.shields.io/github/issues/AR097/Practice-Web-Development)
+![Forks](https://img.shields.io/github/forks/AR097/Practice-Web-Development?style=social)
+![Stars](https://img.shields.io/github/stars/AR097/Practice-Web-Development?style=social)
 
 ## <img src = "https://github.com/AR097/Practice-Flutter/assets/107823438/43342381-1d26-47d2-af97-e92e5f47da01" height=50/> Flutter
 
