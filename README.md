@@ -1,4 +1,4 @@
-# Mini-projects-Flutter
+# Flutter - Pratics and learning
 Mini-projects create for studying  Flutter | Each folder references a single project. <br><br>
 ![Last Commit](https://img.shields.io/github/last-commit/AR097/Practice-Flutter)
 ![Open Issues](https://img.shields.io/github/issues/AR097/Practice-Flutter)
